@@ -1,4 +1,4 @@
-baseURL = "http://localhost:1313/"
+baseURL = "https://dolittle.netlify.com/"
 languageCode = "en-us"
 title = "Dolittle Demo"
 theme = "hugo-elate-theme"
