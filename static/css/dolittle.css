@@ -1,0 +1,15 @@
+#fh5co-home .gradient{
+  background-image: -webkit-gradient(linear, 0% 0%, 100% 100%, color-stop(0, #004366), color-stop(1, #333333));
+  /* Android 2.3 */
+  background-image: -webkit-repeating-linear-gradient(top left, #004366 0%, #333333 100%);
+  /* IE10+ */
+  background-image: repeating-linear-gradient(to bottom right, #004366 0%, #333333 100%);
+  background-image: -ms-repeating-linear-gradient(top left, #004366 0%, #333333 100%);
+}
+.fh5co-person{ 
+    margin-bottom:8rem;
+}
+
+.btn.btn-primary{
+    background:#FF4B00;
+}
